@@ -15,9 +15,8 @@ public class CalendarTest {
 		System.out.println("请输入月份：");
 		int month = in.nextInt();
 		
-
 		
-		Calendar c = Calendar.getInstance();
+	        Calendar c = Calendar.getInstance();
 		c.set(year, month-1, 1);
 		//Java里，月是从0-11算的，天又是正常的……
 		int TotalDay = c.getActualMaximum(Calendar.DATE);
