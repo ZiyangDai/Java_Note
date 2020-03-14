@@ -6,9 +6,7 @@ public class EqualsTest {
 		student s1 = new student(111,"Xiapu No.1 High School");
 		student s2 = new student(222,"Xiapu No.1 High School");
 		System.out.println(s1.equals(s2));
-
 	}
-
 }
 
 class student{
@@ -36,6 +34,5 @@ class student{
 			return true;
 		}
 		return false;
-	}
-		
+	}		
 }
