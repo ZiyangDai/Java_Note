@@ -20,5 +20,5 @@ public class CircleAreaUserInput{
         catch(IOException e){
         }         
         System.out.println("The area is " + S);
-    }
+    } 
 }
