@@ -1,4 +1,4 @@
-package Equals;
+package Equals; 
 
 public class EqualsTest {
 
