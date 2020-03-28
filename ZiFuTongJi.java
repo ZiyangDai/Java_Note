@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class ZiFuTongJi {
+public class ZiFuTongJi { 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		
