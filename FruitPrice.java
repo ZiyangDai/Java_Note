@@ -1,4 +1,4 @@
-//水果单价查询。主要关于loop的运用。
+//水果单价查询。主要关于loop的运用
 
 import java.util.Scanner;
 
