@@ -34,5 +34,5 @@ public class CalendarTest {
 			if (c.get(Calendar.DAY_OF_WEEK) == Calendar.SUNDAY)
                 System.out.println("");
 			//遇到周日换行。
-		}
+		} 
 	}
