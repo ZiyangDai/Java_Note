@@ -1,4 +1,4 @@
-package YiYuanErCi0225;
+package YiYuanErCi0225; 
 
 import java.util.Scanner;
 
